@@ -33,7 +33,7 @@ export default {
       mediaLink: '',
       selectedLanguage: 'nl',
       languages: ['en', 'nl', 'ru', 'ua'],
-      API_KEY: '',//api key
+      API_KEY: 'opHRimUGQYdHYxM82mssnwtt',//api key
       textCopied:false,
       mediaId: null,
       transcription: ''
